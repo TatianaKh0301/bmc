@@ -1,0 +1,22 @@
+{
+  "name": "bmc",
+  "version": "1.0.0",
+  "description": "basis music center",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatianaKh0301/bmc.git"
+  },
+  "keywords": [
+    "bms"
+  ],
+  "author": "Tetiana Kharlamova (tatianakh0301@ukr.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatianaKh0301/bmc/issues"
+  },
+  "homepage": "https://github.com/TatianaKh0301/bmc#readme"
+}
